@@ -34,7 +34,3 @@ Sinta-se à vontade para entrar em contato comigo para conversas sobre tecnologi
 - [LinkedIn] https://www.linkedin.com/in/feliciano-rodino-8289012a7/
 - [Email] rodinofeliciano2002@gmail.com
 
----
-
-### 📊 Estatísticas do GitHub
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodino2002&show_icons=true&theme=radical)
